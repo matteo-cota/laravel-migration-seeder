@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+h1 {
+    color: #ff0000;
+    font-size: 3em;
+}
+
+.badge {
+    font-size: 0.9rem;
+    padding: 0.5em;
+}
